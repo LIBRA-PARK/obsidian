@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "7c301159e9ac4f1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e21b4ad105462c42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8efba9f33bb5fdba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "경력 기술서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbc36a9cccce5b70",
+    "type": "split",
+    "children": [
+      {
+        "id": "e50fb431f2fafa0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3b9ea5edb63f307",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6338c1b7c7e35356",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "115496759b6744f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c67fb92623ae5a66",
+    "type": "split",
+    "children": [
+      {
+        "id": "611c93f2ba7aaac1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aefdfb5de12cb6a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "경력 기술서.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "693273568bafcc44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "경력 기술서.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b108dc6fafa74bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93092160d5290b0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "경력 기술서.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-omnivore:Omnivore": false
+    }
+  },
+  "active": "8efba9f33bb5fdba",
+  "lastOpenFiles": [
+    "Equlas 와 hashCode.md",
+    "Java map buckets.md",
+    "경력 기술서.md",
+    "5월 22일.md"
+  ]
+}
