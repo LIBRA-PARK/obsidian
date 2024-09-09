@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c67fb92623ae5a66",
@@ -150,7 +149,19 @@
   },
   "active": "8efba9f33bb5fdba",
   "lastOpenFiles": [
-    "경력기술서_사진.pptx",
+    "ppt481D.tmp",
+    "ppt4741.tmp",
+    "Pasted image 20240909114021.png",
+    "Pasted image 20240909113146.png",
+    "pptAF24.tmp",
+    "ppt95A9.tmp",
+    "ppt7934.tmp",
+    "ppt6D4C.tmp",
+    "ppt9F6C.tmp",
+    "ppt8E34.tmp",
+    "ppt8D49.tmp",
+    "ppt7F9C.tmp",
+    "ppt7EDF.tmp",
     "Pasted image 20240906190434.png",
     "Pasted image 20240906180848.png",
     "인터페이스 프레임워크 'AnyLink 7' 이슈 대응 및 신규 기능 개발.md",
