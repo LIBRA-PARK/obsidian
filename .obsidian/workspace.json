@@ -11,8 +11,12 @@
             "id": "1a843c8a5574fe01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "경력 기술서.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "경력 기술서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "경력 기술서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "경력 기술서.md"
+              }
             }
           }
         ]
@@ -141,27 +149,27 @@
   },
   "active": "1a843c8a5574fe01",
   "lastOpenFiles": [
-    "경력 기술서.md",
-    "~$경력기술서_사진.pptx",
+    "Pasted image 20240906180848.png",
+    "Pasted image 20240909114021.png",
+    "Pasted image 20240909162213.png",
     "Pasted image 20240909173408.png",
     "Pasted image 20240909173403.png",
+    "Pasted image 20240909173339.png",
+    "Pasted image 20240909155147.png",
+    "Pasted image 20240909155505.png",
+    "Pasted image 20240909113146.png",
+    "Pasted image 20240906190434.png",
+    "경력 기술서.md",
+    "~$경력기술서_사진.pptx",
     "ppt82EF.tmp",
     "ppt8158.tmp",
     "ppt7B2D.tmp",
-    "Pasted image 20240909173339.png",
     "pptE142.tmp",
     "ppt7AD5.tmp",
     "ppt904A.tmp",
     "ppt880C.tmp",
     "ppt8607.tmp",
     "pptD8EF.tmp",
-    "Pasted image 20240909162213.png",
-    "Pasted image 20240909155505.png",
-    "Pasted image 20240909155147.png",
-    "Pasted image 20240909114021.png",
-    "Pasted image 20240909113146.png",
-    "Pasted image 20240906190434.png",
-    "Pasted image 20240906180848.png",
     "인터페이스 프레임워크 'AnyLink 7' 이슈 대응 및 신규 기능 개발.md",
     "Equlas 와 hashCode.md",
     "Java map buckets.md",
