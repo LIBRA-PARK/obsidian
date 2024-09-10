@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ae8dfe8c717c8f5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -149,28 +157,27 @@
   },
   "active": "1a843c8a5574fe01",
   "lastOpenFiles": [
-    "pptB1E4.tmp",
-    "Pasted image 20240910133720.png",
-    "ppt2591.tmp",
-    "ppt2F5.tmp",
-    "Pasted image 20240910122928.png",
-    "ppt563.tmp",
-    "Pasted image 20240910121631.png",
-    "ppt8A7C.tmp",
-    "ppt32A7.tmp",
-    "ppt23D1.tmp",
-    "ppt2305.tmp",
-    "ppt2054.tmp",
+    "경력 기술서.md",
+    "pptB8DF.tmp",
+    "Pasted image 20240910151249.png",
+    "ppt8F9F.tmp",
+    "Pasted image 20240910150449.png",
+    "ppt3385.tmp",
+    "ppt152F.tmp",
+    "ppt7713.tmp",
+    "ppt1928.tmp",
+    "Pasted image 20240910142105.png",
+    "ppt1FBC.tmp",
+    "ppt157A.tmp",
+    "ppt1460.tmp",
     "~$경력기술서_사진.pptx",
+    "Pasted image 20240910133720.png",
+    "Pasted image 20240910122928.png",
+    "Pasted image 20240910121631.png",
     "Pasted image 20240906180848.png",
     "Pasted image 20240909114021.png",
     "Pasted image 20240909162213.png",
     "Pasted image 20240909173408.png",
-    "Pasted image 20240909173403.png",
-    "Pasted image 20240909173339.png",
-    "Pasted image 20240909155147.png",
-    "경력 기술서.md",
-    "ppt82EF.tmp",
     "인터페이스 프레임워크 'AnyLink 7' 이슈 대응 및 신규 기능 개발.md",
     "Equlas 와 hashCode.md",
     "Java map buckets.md",
