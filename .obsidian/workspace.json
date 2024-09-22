@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +166,10 @@
   },
   "active": "1a843c8a5574fe01",
   "lastOpenFiles": [
-    "Pasted image 20240906190434.png",
-    "경력 기술서.md",
-    "Pasted image 20240906180848.png",
     "이력서.md",
+    "경력 기술서.md",
+    "Pasted image 20240906190434.png",
+    "Pasted image 20240906180848.png",
     "~$경력기술서_사진.pptx",
     "pptB8DF.tmp",
     "Pasted image 20240910151249.png",
@@ -189,7 +188,6 @@
     "Pasted image 20240910121631.png",
     "Pasted image 20240909114021.png",
     "Pasted image 20240909162213.png",
-    "Pasted image 20240909173408.png",
     "인터페이스 프레임워크 'AnyLink 7' 이슈 대응 및 신규 기능 개발.md",
     "Equlas 와 hashCode.md",
     "Java map buckets.md",
