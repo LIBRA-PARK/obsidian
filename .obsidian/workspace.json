@@ -23,9 +23,11 @@
             "id": "bb4ed6ddf762dcdc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240906180848.png"
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -41,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "경력 기술서.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "경력 기술서.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "경력 기술서.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -169,14 +172,14 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "1a843c8a5574fe01",
+  "active": "bb4ed6ddf762dcdc",
   "lastOpenFiles": [
-    "무제 파일.md",
     "무제 파일 1.md",
     "이력서.md",
-    "경력 기술서.md",
-    "Pasted image 20240906190434.png",
     "Pasted image 20240906180848.png",
+    "경력 기술서.md",
+    "무제 파일.md",
+    "Pasted image 20240906190434.png",
     "~$경력기술서_사진.pptx",
     "pptB8DF.tmp",
     "Pasted image 20240910151249.png",
