@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "DDD란 왜 필요할까 그리고 서비스가 복잡해질 수록 VO와 DTO, Entity를 나누는 이유는 뭘까.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "DDD란 왜 필요할까 그리고 서비스가 복잡해질 수록 VO와 DTO, Entity를 나누는 이유는 뭘까.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "DDD란 왜 필요할까 그리고 서비스가 복잡해질 수록 VO와 DTO, Entity를 나누는 이유는 뭘까.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "DDD란 왜 필요할까 그리고 서비스가 복잡해질 수록 VO와 DTO, Entity를 나누는 이유는 뭘까.md"
               }
             }
           }
@@ -175,10 +175,10 @@
   "active": "bb4ed6ddf762dcdc",
   "lastOpenFiles": [
     "무제 파일 1.md",
-    "이력서.md",
+    "무제 파일.md",
+    "DDD란 왜 필요할까 그리고 서비스가 복잡해질 수록 VO와 DTO, Entity를 나누는 이유는 뭘까.md",
     "Pasted image 20240906180848.png",
     "경력 기술서.md",
-    "무제 파일.md",
     "Pasted image 20240906190434.png",
     "~$경력기술서_사진.pptx",
     "pptB8DF.tmp",
